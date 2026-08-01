@@ -6,7 +6,7 @@
 
 ## 🚀 Download Release APK
 
-📥 **[Download Latest PeerChess APK (app-release.apk)](build/app/outputs/flutter-apk/app-release.apk)**  
+📥 **[Download Latest PeerChess APK (app-release.apk)](app-release.apk)**  
 *Location*: `build/app/outputs/flutter-apk/app-release.apk`
 
 ---
