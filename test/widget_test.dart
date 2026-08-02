@@ -5,6 +5,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 void main() {
   testWidgets('App initializes and renders Home Screen', (WidgetTester tester) async {
     await tester.pumpWidget(const ProviderScope(child: PeerChessApp()));
+    await tester.pumpAndSettle(const Duration(seconds: 2));
     expect(find.text('PEER CHESS'), findsOneWidget);
   });
 }

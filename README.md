@@ -6,8 +6,8 @@
 
 ## 🚀 Download Release APK
 
-📥 **[Download Latest PeerChess APK (app-release.apk)](app-release.apk)**  
-*Location*: `build/app/outputs/flutter-apk/app-release.apk`
+📥 **[Download Latest PeerChess ARM64 APK (app-arm64-v8a-release.apk - 17.9MB)](build/app/outputs/flutter-apk/app-arm64-v8a-release.apk)**  
+*Location*: `build/app/outputs/flutter-apk/app-arm64-v8a-release.apk` (17.9 MB optimized for physical smartphones)
 
 ---
 
