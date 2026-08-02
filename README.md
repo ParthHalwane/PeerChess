@@ -46,20 +46,6 @@
 
 ---
 
-## 🧪 Verification & Testing
-
-Run unit tests locally:
-```bash
-flutter test
-```
-
-Build release APK:
-```bash
-flutter build apk --release
-```
-
----
-
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for details.
