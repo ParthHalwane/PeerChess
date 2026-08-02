@@ -8,7 +8,6 @@
 
 📥 **[Download Latest PeerChess APK](PeerChess.apk)**  
 *File Name*: `PeerChess.apk`
->>>>>>> 7022ea9220e04546233dc465a87859710ce8143a
 
 ---
 
